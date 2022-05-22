@@ -2,7 +2,6 @@
 
 import argparse
 import json
-import style
 import sys # exit program without traceback
 from configparser import ConfigParser
 from urllib import parse, request
