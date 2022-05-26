@@ -9,4 +9,4 @@ For the CLI arguments, add
 *may need Python 3.10*
 
 
-CREDIT: https://realpython.com/build-a-python-weather-app-cli/
+
